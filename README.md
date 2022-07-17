@@ -1,5 +1,5 @@
 <h1 align="center">
-<img align="center" width="900em" src="./img/capa2.gif"/></center>
+<img align="center" width="900em" src="./img/capa3.gif"/></center>
 </h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm João Marcos</h1>
