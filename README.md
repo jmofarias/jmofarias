@@ -1,4 +1,4 @@
-<center><img width="2048px" height="400px" border="3px solid" border-radius="10px" src="./img/capa.gif"/></center> <br>
+<center><img width="600vw" height="400vh" src="./img/capa.gif"/></center> <br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm João Marcos</h1>
 
 <center>
