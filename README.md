@@ -1,5 +1,5 @@
 <h1 align="center">
-<img align="center" width="600vw" height="400vh" src="./img/capa.gif"/></center>
+<img align="center" width="400vw" height="200vh" src="./img/capa.gif"/></center>
 <br>
 <br>
 </h1>
