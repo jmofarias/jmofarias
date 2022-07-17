@@ -4,15 +4,11 @@
 <br>
 </h1>
 
-<br>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm João Marcos</h1>
 
  👨‍💻 Junior Front End Developer and UX/UI Designer
 
  🏢 I’m currently working at [Mesha Tecnologia](https://github.com/meshatech)
-
-<br>
 
 <h1 align="center">Technologies</h1>
 
@@ -23,16 +19,12 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<br>
-
 <h1 align="center">Contact</h1>
 
 <p>
     <a href="https://www.linkedin.com/in/jmofarias/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jmofarias-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 </p>
-
-<br>
 
 <h1 align="center">My Github Stats</h1>
 
