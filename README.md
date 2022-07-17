@@ -1,5 +1,7 @@
 <h1 align="center">
 <img align="center" width="600vw" height="400vh" src="./img/capa.gif"/></center>
+<br>
+<br>
 </h1>
 
 <br>
@@ -14,16 +16,18 @@
 
 <h1 align="center">Technologies</h1>
 
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 <br>
 
 <h1 align="center">Contact</h1>
 
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/jmofarias/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jmofarias-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 </p>
