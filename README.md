@@ -1,4 +1,9 @@
-<img align="center" width="600vw" height="400vh" src="./img/capa.gif"/></center> <br>
+<h1 align="center">
+<img align="center" width="600vw" height="400vh" src="./img/capa.gif"/></center>
+</h1>
+
+<br>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm João Marcos</h1>
 
  👨‍💻 Junior Front End Developer and UX/UI Designer
